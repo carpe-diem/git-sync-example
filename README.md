@@ -1,7 +1,5 @@
 # git-sync-example
 
-[![Rust CI](https://github.com/carpe-diem/git-sync-example/actions/workflows/rust.yml/badge.svg)](https://github.com/carpe-diem/git-sync-example/actions/workflows/rust.yml)
-
 This is a test repository used to test [git-sync](https://github.com/carpe-diem/git-sync), a simple CLI tool to sync any directory with GitHub.
 
 ## Purpose
